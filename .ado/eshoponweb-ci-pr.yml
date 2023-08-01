@@ -2,7 +2,8 @@
 resources:
   repositories:
     - repository: self
-      trigger: none
+      trigger:
+      - main
 
 stages:
 - stage: Build
