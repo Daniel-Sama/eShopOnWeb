@@ -9,7 +9,7 @@ env:
   LOCATION: ukwest
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: d067de53-bfbb-43d3-b1f7-862ec769a5b9
-  WEBAPP-NAME: az400-webapp-eShopWeb
+  WEBAPP-NAME: az400-webapp-dannycheneShopWeb
 
 
 jobs:
